@@ -1,2 +1,2 @@
-# cursor-magic-
+# cursor-magic
 something fun and enjoy 
